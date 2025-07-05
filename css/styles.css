@@ -4,3 +4,8 @@ h1 {
     text-align: center;
     text-decoration: underline double blue;
 }
+h2 {
+    font-size: 12;
+    background-color: brown;
+    text-align: center;
+}
