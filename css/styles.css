@@ -12,3 +12,7 @@ h2 {
 h3 {
     text-decoration: underline yellow;
 }
+.text {
+    font-size: 24;
+    font-family: Arial, Helvetica, sans-serif;
+}
